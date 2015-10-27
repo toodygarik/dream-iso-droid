@@ -19,3 +19,5 @@ The engine contains a fog of war system, what based on texture painting techniqu
 
 # Test game
 It also contains a test game, what was created to an Asus Pad Transformer 1. Now it has problem with mouse mapping becouse of resolution changes, but it can be a good start. If you can change it and fix it, you already know how you can use this engine. :) 
+
+![Alt text](/fow.png?raw=true)
