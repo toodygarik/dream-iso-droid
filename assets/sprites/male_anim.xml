@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<animations imgwidth="2048" imgheight="2048">
+
+	<animation name="stand" steptime="1000" startframe="0">
+		<frame left="0" right="256" top="0" bottom="256"/>
+		<frame left="0" right="256" top="256" bottom="512"/>
+		<frame left="0" right="256" top="512" bottom="768"/>
+		<frame left="0" right="256" top="768" bottom="1024"/>
+		<frame left="0" right="256" top="1024" bottom="1280"/>
+		<frame left="0" right="256" top="1280" bottom="1536"/>
+		<frame left="0" right="256" top="1536" bottom="1792"/>
+		<frame left="0" right="256" top="1792" bottom="2048"/>
+	
+	</animation>
+	
+	<animation name="left_move" steptime="150" startframe="0">
+		<frame left="64" right="192" top="73" bottom="192"/>
+		<frame left="320" right="448" top="73" bottom="192"/>
+		<frame left="576" right="704" top="73" bottom="192"/>
+		<frame left="832" right="960" top="73" bottom="192"/>
+		
+	</animation>
+	
+	<animation name="first_line" steptime="300" startframe="0">
+		<frame left="64" right="192" top="73" bottom="192"/>
+		<frame left="320" right="448" top="73" bottom="192"/>
+		<frame left="576" right="704" top="73" bottom="192"/>
+		<frame left="832" right="960" top="73" bottom="192"/>
+		<frame left="1080" right="1216" top="73" bottom="192"/>
+		<frame left="1344" right="1472" top="1024" bottom="1280"/>
+		<frame left="1600" right="1728" top="1280" bottom="1536"/>
+		<frame left="1856" right="1984" top="1536" bottom="1792"/>
+		<frame left="2112" right="2240" top="1792" bottom="2048"/>
+	</animation>
+	
+	
+</animations>

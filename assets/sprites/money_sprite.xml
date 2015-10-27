@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<isosprite name="money"  
+	imgname="money" 
+	spritewidth="32.0" 
+	spriteheight="32.0" 
+	ax="0" ay="23" 
+	bx="32" by="23" 
+	bodyheight="20"
+	startZ="0"
+	isShadow="false">
+	
+	
+
+</isosprite>

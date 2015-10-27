@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<isosprite name="grass"  
+	imgname="sgrass" 
+	spritewidth="2000.0" 
+	spriteheight="2000.0" 
+	ax="0" ay="1000" 
+	bx="2000" by="1000" 
+	bodyheight="0"
+	startZ="0"
+	isShadow="false">
+	
+	<animations imgwidth="128" imgheight="128">
+		<animation name="copy" steptime="0" startframe="0">
+			<frame left="0" right="2000" top="0" bottom="2000"/>
+		</animation>
+	</animations>
+</isosprite>

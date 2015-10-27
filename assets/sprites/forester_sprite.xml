@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<isosprite name="forester_house"  
+	imgname="forester" 
+	spritewidth="128.0" 
+	spriteheight="128.0" 
+	ax="0" ay="90" 
+	bx="56" by="90" 
+	bodyheight="45"
+	startZ="0"
+	isShadow="false">
+	
+	
+
+</isosprite>

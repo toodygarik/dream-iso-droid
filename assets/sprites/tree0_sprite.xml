@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<isosprite name="tree0"  
+	imgname="tree0" 
+	spritewidth="128.0" 
+	spriteheight="128.0" 
+	ax="36" ay="100" 
+	bx="66" by="100" 
+	bodyheight="100"
+	startZ="0"
+	isShadow="false">
+	
+	
+
+</isosprite>

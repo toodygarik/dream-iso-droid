@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<isosprite name="house"  
+	imgname="house" 
+	spritewidth="57.0" 
+	spriteheight="86.0" 
+	ax="0" ay="72" 
+	bx="57" by="72" 
+	bodyheight="57"
+	startZ="0"
+	isShadow="false">
+	
+	
+
+</isosprite>

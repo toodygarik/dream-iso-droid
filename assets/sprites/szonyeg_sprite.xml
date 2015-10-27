@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<isosprite name="szonyeg"  
+	imgname="szonyeg" 
+	spritewidth="64.0" 
+	spriteheight="64.0" 
+	ax="0" ay="44" 
+	bx="64" by="50" 
+	bodyheight="1"
+	startZ="1"
+	isShadow="false">
+	
+	
+
+</isosprite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<isosprite name="tree1_shadow"  
+	imgname="tree1_s" 
+	spritewidth="128.0" 
+	spriteheight="128.0" 
+	ax="34" ay="100" 
+	bx="66" by="100"  
+	bodyheight="0"
+	startZ="0"
+	isShadow="true">
+	
+	
+
+</isosprite>
