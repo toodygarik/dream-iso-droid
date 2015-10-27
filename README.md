@@ -1,6 +1,6 @@
 # dream-iso-droid
 It's an OpenGL isometric perspective game engine for android.
-I wrote it as my tesis work at university, and since than I didn't changed it, but it can be a good starting point anyone who want to dive in how to make an isometric engine.
+I wrote this as my tesis work at university, and since than I didn't changed it, but it can be a good starting point anyone who want to dive in how to make an isometric engine.
 
 # Sprites
 This engine is using only sprites, but to calculate what should be the order of the drawing, it places every object in a 3d box virtualy. The basics of this technique is borrowed from OpenTTD's source code. (So if some of you from OpenTTD team reads this, Thanks a lot! :) )
