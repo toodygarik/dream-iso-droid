@@ -1,0 +1,33 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "hu.garik.android.game"
+        minSdkVersion 14
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+
+    }
+
+    productFlavors {
+        arm {
+            ndk {
+                abiFilters "armeabi-v7a", "armeabi"
+            }
+        }
+    }
+
+    dependencies {
+        compile fileTree(dir: 'jniLibs', include: ['*.jar', '*.so'])
+    }
+
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    
+    <hu.garik.android.game.engine.GLCanvas
+    	android:id="@+id/glcanvas"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"/>
+    
+    <Button android:id="@+id/l_button"
+    	android:layout_width="40dip"
+    	android:layout_height="40dip"
+    	android:layout_alignParentLeft="true"
+    	android:layout_alignParentBottom="true"
+    	android:layout_marginBottom="150dip"
+    	android:text="L"/>
+
+	<Button android:id="@+id/r_button"
+    	android:layout_width="40dip"
+    	android:layout_height="40dip"
+    	android:layout_toRightOf="@id/l_button"
+    	android:layout_alignTop="@id/l_button"
+    	android:text="R"/>
+    
+    <Button android:id="@+id/t_button"
+    	android:layout_width="40dip"
+    	android:layout_height="40dip"
+    	android:layout_alignParentLeft="true"
+    	android:layout_above="@id/l_button"
+    	android:layout_marginLeft="20dip"
+    	android:text="U"/>
+    
+    <Button android:id="@+id/b_button"
+    	android:layout_width="40dip"
+    	android:layout_height="40dip"
+    	android:layout_alignParentLeft="true"
+    	android:layout_alignParentBottom="true"
+    	android:layout_marginBottom="110dip"
+    	android:layout_marginLeft="20dip"
+    	android:text="D"/>
+
+	<ImageView android:id="@+id/img"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentRight="true"/>    
+    
+</RelativeLayout>
